@@ -243,4 +243,4 @@ UIViewController *controller = [LSWeightViewController createWeightViewControlle
 
 
 ## 五、技术支持群
-![avatar](support.jpg)
+![avatar](support.png)
